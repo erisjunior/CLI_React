@@ -1,5 +1,6 @@
 module.exports = {
   name: 'page',
+  alias: ['p'],
   description: 'Create New Page inside src/components',
   run: async toolbox => {
     const {

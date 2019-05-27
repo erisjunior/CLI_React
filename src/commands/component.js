@@ -1,5 +1,6 @@
 module.exports = {
   name: 'component',
+  alias: ['c'],
   description: 'Create New Component inside src/components',
   run: async toolbox => {
     const {
